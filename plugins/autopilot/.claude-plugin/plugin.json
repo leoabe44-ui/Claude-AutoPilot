@@ -1,0 +1,6 @@
+{
+  "name": "autopilot",
+  "version": "0.1.0",
+  "description": "Give Claude a goal and it plans, builds, checks and learns in a loop until the goal is done.",
+  "author": { "name": "leoabe44-ui" }
+}

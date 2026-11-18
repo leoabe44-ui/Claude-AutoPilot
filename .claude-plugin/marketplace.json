@@ -1,0 +1,14 @@
+{
+  "name": "autopilot",
+  "owner": { "name": "leoabe44-ui" },
+  "metadata": {
+    "description": "Self-prompting agent system for Claude Code: agents, loops, graph routing and self-improvement."
+  },
+  "plugins": [
+    {
+      "name": "autopilot",
+      "source": "./plugins/autopilot",
+      "description": "Give Claude a goal and it plans, builds, checks and learns in a loop until the goal is done."
+    }
+  ]
+}
